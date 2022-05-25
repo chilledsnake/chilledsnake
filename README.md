@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+If You're looking for some python and python web development related code examples then You're on the right place.
+
+📫 How to reach me: 
+IG account: chilled_snake_pl
+gmail: chilledsnake.pl@gmail.com
+
 <!--
 **chilledsnake/chilledsnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
