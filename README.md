@@ -4,7 +4,7 @@ If You're looking for some python and python web development related code exampl
 
 📫 How to reach me: 
 IG account: chilled_snake_pl
-gmail: chilledsnake.pl@gmail.com
+gmail: contact@chilledsnake.pl
 
 <!--
 **chilledsnake/chilledsnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
