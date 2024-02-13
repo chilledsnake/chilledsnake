@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 How to reach me: 
-gmail: cwroblewski@o2.pl
+email: cwroblewski@o2.pl
 
 <!--
 **chilledsnake/chilledsnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
